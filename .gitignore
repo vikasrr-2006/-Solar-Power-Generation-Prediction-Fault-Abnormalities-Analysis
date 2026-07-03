@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+.eggs/
+dist/
+build/
+models/*.pkl
+models/*.joblib
+.ipynb_checkpoints/
+.vscode/
+.idea/
+*.egg-info/
